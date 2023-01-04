@@ -1,8 +1,9 @@
 ### Paul John F. Lim
-### Third Year
+### BSCpE Graduate
 #### Interests: MACTS and Games
-#### Email: [qpjflim@tip.edu.ph](mailto:qpjflim@tip.edu.ph)
+#### Email: [mpjlim@tip.edu.ph](mailto:mpjlim@tip.edu.ph)
 #### Computer Specs:  
   * **Intel i5-10300H @2.50GHz**  
-  * 8.00GB RAM   
-  * HDD 1 TB
+  * 16.00GB RAM   
+  * HDD 1TB
+  * SSD 500GB
